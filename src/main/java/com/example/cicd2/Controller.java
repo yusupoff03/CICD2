@@ -11,5 +11,5 @@ public class Controller {
     public ResponseEntity<String> hello() {
         return ResponseEntity.ok("hello");
     }
-    
+
 }
